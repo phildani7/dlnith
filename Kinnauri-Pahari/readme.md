@@ -12,3 +12,29 @@ For processing, you can use the Indic NLP Library.
 ./License </br>
 ./Contributors </br>
 ./Contacts </br>
+
+# __Text Corpora__
+The text corpus contains the following:
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+
+# __Word Embeddings__
+
+
+# __Citing__
+If you are using any of the resources, please cite the following article:
+
+
+# __License__
+Kinnauri-Pahari Corpus is licensed under a Creative Commons v0.1 License.
+
+# __Contributors__
+Philemon Daniel </br>
+Shefali Saxena </br>
+
+# __Contacts__
+Philemon Daniel (phildani7@nith.ac.in) </br>
+Shefali Saxena (shefali@nith.ac.in) </br>
+Shweta Chauhan (shweta@nith.ac.in) </br>
