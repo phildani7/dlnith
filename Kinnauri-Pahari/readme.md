@@ -9,6 +9,7 @@ For pre-processing, use the Indic NLP Library.
 
 # __Table of contents__
  - [__Text Corpora__](#--text-corpora--) 
+ - [__Word Embeddings__](#--word-embeddings--)]
  - [__Citing__](#--citing--) 
  - [__License__](#--license--) 
  - [__Acknowlwdgement__](#--acknowledgement--)
@@ -23,7 +24,8 @@ Monolingual | Kinnauri-Pahari | 43,367 | [link](https://github.com/phildani7/dln
 Parallel | Hindi | 20,307 | [link](https://github.com/phildani7/dlnith/blob/master/Kinnauri-Pahari/Parallel/Parallel_data_Hi.txt) 
 Parallel | Kinnauri-Pahari | 20,307 | [link](https://github.com/phildani7/dlnith/blob/master/Kinnauri-Pahari/Parallel/Parallel_data_KP.txt) 
 
-# __Pre-requisite__
+# __Word Embeddings__
+### __Pre-requisite__
 To replicate the results reported in the paper, training and evaluation scripts are provided.
 
 To run these scripts, the following tools/packages are required:
