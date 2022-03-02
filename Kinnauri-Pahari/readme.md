@@ -2,7 +2,9 @@
 
 The Kinnauri-Pahari dataset is an ongoing effort to create a collection of general-domain corpora for  one of seven endangered languages found in Himachal Pradesh, India.
 Currently, this dataset has released under version_0.1, and it contains both the monolingual and parallel sentences.
+
 The pre-trained word embeddings has been shared. The unsupervised Statistical and Neural Machine Translation results has been evaluated on multiple evaluation tasks.
+
 For pre-processing, use the Indic NLP Library.
 
 # __Table of contents__
