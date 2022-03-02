@@ -23,8 +23,10 @@ Parallel | Kinnauri-Pahari | 20,307 | [link](https://github.com/phildani7/dlnith
 
 # __Pre-requisite__
 To replicate the results reported in the paper, training and evaluation scripts are provided.
+
 To run these scripts, the following tools/packages are required:
  - [FastText](https://github.com/facebookresearch/fastText) </br>
+
 For Python packages to install, see [requirements.txt](https://github.com/phildani7/dlnith/blob/master/Kinnauri-Pahari/requirement.txt)
 
 # __Word Embeddings__
