@@ -9,7 +9,8 @@
  - [__Contacts__](#--contacts--) 
 
 # __Text Corpora__
-This dataset contains the Monolingual and Parallel data that was processed from the December-Feburary 2022. Containing n/a in Text file format.
+This dataset contains the Monolingual and Parallel data that was processed from the July-January, 2021. Containing data n/a in Text file format.
+
 ## Train datset:
 [Kr_1](https://raw.githubusercontent.com/chauhanshweta/Kangri_corpus/main/train%20dataset/Kr_1.txt?token=GHSAT0AAAAAABR3RKKGYJCC3L6UWXLRDE4WYQ7AG7Q) represent the kangri monolingual dataset which conatin the books collected from various short/long stories and novels. Apart from books we have also compiled the monolingual data by including conversations from various WhatsApp and Facebook groups. 
 
