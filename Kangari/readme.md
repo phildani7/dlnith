@@ -20,17 +20,11 @@ Kr_4 represnt the Parallel Hindi-Kangri dataset that has been created by distrib
 
 Kr_4 is categrized [Kr_4_Hindi](https://raw.githubusercontent.com/chauhanshweta/Kangri_corpus/main/train%20dataset/Kr_4_Hindi.txt?token=GHSAT0AAAAAABR3RKKHNSRBNKKMZ2FRH7KGYQ7AOEA) and [Kr_4_kangri](https://raw.githubusercontent.com/chauhanshweta/Kangri_corpus/main/train%20dataset/Kr_4_kangri.txt?token=GHSAT0AAAAAABR3RKKHDENJJIDHF3YVFHTEYQ7AOFQ)
 
-## Test dataset:
-Kr_1 conatin 1000 kangri test dataset
-
-Kr_4_Hindi contain 500 parallel hindi dataset.
-
-Kr_4_Kangri contain 500 parallel Kangri dataset.
-Dataset |  | Sentences | Tokens | Train 
---------| ----- | ------- | ------ | ------ 
-Monolingual | Kangri | | 1.81M 
-Parallel | Hindi | | 27,307 
-Parallel | Kangri | | 27,307  
+Dataset |  | Sentences | Tokens  
+--------| ----- | ------- | ------ 
+Monolingual | Kangri | 1.81M | 2377100 
+Parallel | Hindi | 26,862 | 281076 
+Parallel | Kangri | 26,862 | 271752 
 
 # __Pre-requisite__
 To replicate the results reported in the paper, training and evaluation scripts are provided.
@@ -43,7 +37,12 @@ For Python packages to install, see [requirements.txt](https://github.com/philda
 
 # __Citing__
 If you are using any of the resources, please cite the following article:
-
+@article{chauhan2021monolingual,
+  title={Monolingual and parallel corpora for kangri low resource language},
+  author={Chauhan, Shweta and Saxena, Shefali and Daniel, Philemon},
+  journal={arXiv preprint arXiv:2103.11596},
+  year={2021}
+}
 
 # __License__
 Kangari Corpus is licensed under a Creative Commons v0.1 License.
