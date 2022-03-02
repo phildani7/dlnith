@@ -4,6 +4,7 @@
  - [__Text Corpora__](#--text-corpora--) 
  - [__Citing__](#--citing--) 
  - [__License__](#--license--) 
+ - [__Acknowledgement__](#--acknowledgement--)
  - [__Contributors__](#--contributors--) 
  - [__Contacts__](#--contacts--) 
 
@@ -47,6 +48,9 @@ preferred-citation:
 
 # __License__
 Kangari Corpus is licensed under a Creative Commons v0.1 License.
+
+# __Acknowledgement__
+We thank Dr. Karam Singh, Director of Department of Language Art and Culture, Shimla, Himachal Pradesh for their efforts in arranging workshops to collect datasets. We also thank to all the authors of various books. We also thank all the language translators writers who manually compiles the dataset: Aman Kumar Vishva, Bharti kudailiya, Bhupinder Singh Bhupi, Deepak kulavi, Vijay Puri , Hari Krishan Murari ,Navin Haldwani , Suresh Lata Awasthi ,Shakti Singh Rana, Shelly Kiran, Vandana Rana, Vinod Bhavuk , Virender Sharma, Gopal Sharma, Naveen, Rajiv Trigti, Manoj Kumar.
 
 # __Contributors__
 Shweta Chauhan </br>
