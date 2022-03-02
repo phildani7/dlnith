@@ -12,7 +12,7 @@ For pre-processing, use the Indic NLP Library.
  - [__Word Embeddings__](#--word-embeddings--) 
  - [__Citing__](#--citing--) 
  - [__License__](#--license--) 
- - [__Acknowlwdgement](#--acknowledgement--)
+ - [__Acknowlwdgement__](#--acknowledgement--)
  - [__Contributors__](#--contributors--) 
  - [__Contacts__](#--contacts--) 
 
