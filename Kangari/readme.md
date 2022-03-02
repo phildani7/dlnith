@@ -45,10 +45,10 @@ We thank Dr. Karam Singh, Director of Department of Language Art and Culture, Sh
 
 # __Contributors__
 Shweta Chauhan </br>
-shefali Saxena </br>
+Shefali Saxena </br>
 Philemon Daniel </br>
 
 # __Contacts__
-Shefali Saxena (shefali@nith.ac.in) </br>
 Shweta Chauhan (shweta@nith.ac.in) </br>
+Shefali Saxena (shefali@nith.ac.in) </br>
 Philemon Daniel (phildani7@nith.ac.in) </br>
