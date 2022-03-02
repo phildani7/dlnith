@@ -1,4 +1,4 @@
-# **Kinnauri-Pahari Dataset**
+# **Kinnauri-Pahari(KP) Dataset**
 
 The Kinnauri-Pahari dataset is an ongoing effort to create a collection of general-domain corpora for  one of seven endangered languages found in Himachal Pradesh, India.
 Currently, this dataset has released under version_0.1, and it contains both the monolingual and parallel sentences.
@@ -15,10 +15,26 @@ For pre-processing, use the Indic NLP Library.
 
 # __Text Corpora__
 This dataset contains the Monolingual and Parallel data that was processed from the December-Feburary 2022. Containing n/a in Text file format.
+Dataset |  | Sentences | Train 
+--------| ----- | ------- | ------ 
+Monolingual | Kinnauri-Pahari | 43,367 | [link](https://github.com/phildani7/dlnith/blob/master/Kinnauri-Pahari/Monolingual_KP) 
+Parallel | Hindi | 20,307 | [link](https://github.com/phildani7/dlnith/blob/master/Kinnauri-Pahari/Parallel/Parallel_data_Hi.txt) 
+Parallel | Kinnauri-Pahari | 20,307 | [link](https://github.com/phildani7/dlnith/blob/master/Kinnauri-Pahari/Parallel/Parallel_data_KP.txt) 
+
+# __Pre-requisite__
+To replicate the results reported in the paper, training and evaluation scripts are provided.
+To run these scripts, the following tools/packages are required:
+ - [FastText](https://github.com/facebookresearch/fastText) </br>
+For Python packages to install, see [requirements.txt](https://github.com/phildani7/dlnith/blob/master/Kinnauri-Pahari/requirement.txt)
 
 # __Word Embeddings__
-Word embedding is a vector representation of each word that can capture its context,  syntactic and semantic similarity, analogies, and relationships with other words.
-[FastText](https://github.com/facebookresearch/fastText), used to tokenize the corpus since it has a better word relationship. For crosslingual common embedding space, [Vecmap](https://github.com/artetxem/vecmap) for 300 dimensions is used. 
+Dataset |  | vectors | models
+--------| ----- | ------- | ----
+Monolingual | Kinnauri-Pahari | [link]() 
+Parallel | Hindi | [link]() 
+Parallel | Kinnauri-Pahari | [link]() 
+
+
 
 # __Citing__
 If you are using any of the resources, please cite the following article:
