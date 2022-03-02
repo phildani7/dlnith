@@ -30,21 +30,12 @@ Parallel | Kangri | 26,862 | 271752
 # __Citing__
 If you are using any of the resources, please cite the following article:
 preferred-citation:
-  type: article
- - title= {Monolingual and parallel corpora for kangri low resource language},
- - authors: {Chauhan, Shweta and Saxena, Shefali and Daniel, Philemon},
- - journal={arXiv preprint arXiv:2103.11596},
- - year={2021}
-  - family-names: "Lisa"
-    given-names: "Mona"
-    orcid: "https://orcid.org/0000-0000-0000-0000"
-    
-@article{chauhan2021monolingual, 
-  title={Monolingual and parallel corpora for kangri low resource language},
-  author={Chauhan, Shweta and Saxena, Shefali and Daniel, Philemon},
-  journal={arXiv preprint arXiv:2103.11596},
-  year={2021}
-}
+- @article{chauhan2021monolingual, </br>
+   title={Monolingual and parallel corpora for kangri low resource language}, </br>
+   author={Chauhan, Shweta and Saxena, Shefali and Daniel, Philemon}, </br>
+   journal={arXiv preprint arXiv:2103.11596}, </br>
+   year={2021} </br>
+ }
 
 # __License__
 Kangari Corpus is licensed under a Creative Commons v0.1 License.
