@@ -26,15 +26,6 @@ Monolingual | Kangri | 1.81M | 2377100
 Parallel | Hindi | 26,862 | 281076 
 Parallel | Kangri | 26,862 | 271752 
 
-# __Pre-requisite__
-To replicate the results reported in the paper, training and evaluation scripts are provided.
-
-To run these scripts, the following tools/packages are required:
- - [FastText](https://github.com/facebookresearch/fastText) </br>
-
-For Python packages to install, see [requirements.txt](https://github.com/phildani7/dlnith/blob/master/Kinnauri-Pahari/requirement.txt)
-
-
 # __Citing__
 If you are using any of the resources, please cite the following article:
 @article{chauhan2021monolingual,
