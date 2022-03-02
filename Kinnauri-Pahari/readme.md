@@ -35,13 +35,3 @@ Shefali Saxena </br>
 Shefali Saxena (shefali@nith.ac.in) </br>
 Shweta Chauhan (shweta@nith.ac.in) </br>
 Philemon Daniel (phildani7@nith.ac.in) </br>
-
-- [**Kinnauri-Pahari Dataset**](#--kinnauri-pahari-dataset--)
-- [__Table of contents__](#--table-of-contents--)
-- [__Text Corpora__](#--text-corpora--)
-- [__Word Embeddings__](#--word-embeddings--)
-- [__Citing__](#--citing--)
-- [__License__](#--license--)
-- [__Contributors__](#--contributors--)
-- [__Contacts__](#--contacts--)
-
