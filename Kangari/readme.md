@@ -1,7 +1,6 @@
 # __Kangri Monolingual and Hindi-Kangri Parllel corpora__
 
 # __Table of contents__
-# __Table of contents__
  - [__Text Corpora__](#--text-corpora--) 
  - [__Citing__](#--citing--) 
  - [__License__](#--license--) 
