@@ -6,22 +6,19 @@ TThe pre-trained word embeddings has been shared. The unsupervised Statistical a
 For pre-processing, use the Indic NLP Library.
 
 # __Table of contents__
-./Text Corpora </br>
-../Word Embeddings </br>
+[Text Corpora](Text Corpora) </br>
+[Word Embeddings](Word Embeddings) </br>
 ./Citing </br>
 ./License </br>
 ./Contributors </br>
 ./Contacts </br>
 
 # __Text Corpora__
-The text corpus contains the following:
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+This dataset contains the Monolingual and Parallel data that was processed from the December-Feburary 2022. Containing n/a in Text file format.
 
 # __Word Embeddings__
-
+Word embedding is a vector representation of each word that can capture its context,  syntactic and semantic similarity, analogies, and relationships with other words.
+[FastText](https://github.com/facebookresearch/fastText), used to tokenize the corpus since it has a better word relationship. For crosslingual common embedding space, [Vecmap](https://github.com/artetxem/vecmap) is used. 
 
 # __Citing__
 If you are using any of the resources, please cite the following article:
@@ -35,6 +32,6 @@ Philemon Daniel </br>
 Shefali Saxena </br>
 
 # __Contacts__
-Philemon Daniel (phildani7@nith.ac.in) </br>
 Shefali Saxena (shefali@nith.ac.in) </br>
 Shweta Chauhan (shweta@nith.ac.in) </br>
+Philemon Daniel (phildani7@nith.ac.in) </br>
