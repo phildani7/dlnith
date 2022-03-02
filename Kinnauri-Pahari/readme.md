@@ -12,6 +12,7 @@ For pre-processing, use the Indic NLP Library.
  - [__Word Embeddings__](#--word-embeddings--) 
  - [__Citing__](#--citing--) 
  - [__License__](#--license--) 
+ - [__Acknowlwdgement](#--acknowledgement--)
  - [__Contributors__](#--contributors--) 
  - [__Contacts__](#--contacts--) 
 
@@ -46,6 +47,9 @@ If you are using any of the resources, please cite the following article:
 
 # __License__
 Kinnauri-Pahari Corpus is licensed under a Creative Commons v0.1 License.
+
+# __Acknowledgement__
+The Project, Documentation of Kinnauri Pahari dialect and development of Artificial Intelligence based translation of Kinnauri Pahari, is an year project and is funded by the Tribal Development Department, Government of Himachal Pradesh.
 
 # __Contributors__
 Philemon Daniel </br>
