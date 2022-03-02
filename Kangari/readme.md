@@ -20,20 +20,29 @@ Kr_4 represnt the Parallel Hindi-Kangri dataset that has been created by distrib
 
 Kr_4 is categrized [Kr_4_Hindi](https://raw.githubusercontent.com/chauhanshweta/Kangri_corpus/main/train%20dataset/Kr_4_Hindi.txt?token=GHSAT0AAAAAABR3RKKHNSRBNKKMZ2FRH7KGYQ7AOEA) and [Kr_4_kangri](https://raw.githubusercontent.com/chauhanshweta/Kangri_corpus/main/train%20dataset/Kr_4_kangri.txt?token=GHSAT0AAAAAABR3RKKHDENJJIDHF3YVFHTEYQ7AOFQ)
 
-Dataset |  | Sentences | Tokens | Train 
---------| ----- | ------- | ------ | ------ 
-Monolingual | Kangri | | 1.81M 
-Parallel | Hindi | | 27,307 
-Parallel | Kangri | | 27,307  
-
+Dataset |  | Sentences | Tokens  
+--------| ----- | ------- | ------ 
+Monolingual | Kangri | 1.81M | 2377100 
+Parallel | Hindi | 26,862 | 281076 
+Parallel | Kangri | 26,862 | 271752 
 
 # __Citing__
 If you are using any of the resources, please cite the following article:
-- @article{chauhan2021monolingual, </br>
-  title={Monolingual and parallel corpora for kangri low resource language}, </br>
-  author={Chauhan, Shweta and Saxena, Shefali and Daniel, Philemon}, </br>
-  journal={arXiv preprint arXiv:2103.11596}, </br>
-  year={2021} </br>
+preferred-citation:
+  type: article
+ - title= {Monolingual and parallel corpora for kangri low resource language},
+ - authors: {Chauhan, Shweta and Saxena, Shefali and Daniel, Philemon},
+ - journal={arXiv preprint arXiv:2103.11596},
+ - year={2021}
+  - family-names: "Lisa"
+    given-names: "Mona"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+    
+@article{chauhan2021monolingual, 
+  title={Monolingual and parallel corpora for kangri low resource language},
+  author={Chauhan, Shweta and Saxena, Shefali and Daniel, Philemon},
+  journal={arXiv preprint arXiv:2103.11596},
+  year={2021}
 }
 
 # __License__
