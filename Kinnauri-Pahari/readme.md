@@ -9,7 +9,6 @@ For pre-processing, use the Indic NLP Library.
 
 # __Table of contents__
  - [__Text Corpora__](#--text-corpora--) 
- - [__Word Embeddings__](#--word-embeddings--) 
  - [__Citing__](#--citing--) 
  - [__License__](#--license--) 
  - [__Acknowlwdgement__](#--acknowledgement--)
@@ -31,15 +30,6 @@ To run these scripts, the following tools/packages are required:
  - [FastText](https://github.com/facebookresearch/fastText) </br>
 
 For Python packages to install, see [requirements.txt](https://github.com/phildani7/dlnith/blob/master/Kinnauri-Pahari/requirement.txt)
-
-# __Word Embeddings__
-Dataset |  | vectors | models
---------| ----- | ------- | ----
-Monolingual | Kinnauri-Pahari | [link]() 
-Parallel | Hindi | [link]() 
-Parallel | Kinnauri-Pahari | [link]() 
-
-
 
 # __Citing__
 If you are using any of the resources, please cite the following article:
