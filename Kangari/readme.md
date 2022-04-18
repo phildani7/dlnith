@@ -42,7 +42,7 @@ preferred-citation:
 Kangari Corpus is licensed under a Creative Commons v0.1 License.
 
 # __Acknowledgement__
-We thank Dr. Karam Singh, Director of **Department of Language Art and Culture, Shimla, Himachal Pradesh** for their efforts in arranging workshops to collect datasets. We also thank to all the authors of various books. We also thank all the language translators writers who manually compiles the dataset: Aman Kumar Vishva, Bharti kudailiya, Bhupinder Singh Bhupi, Deepak kulavi, Vijay Puri , Hari Krishan Murari ,Navin Haldwani , Suresh Lata Awasthi ,Shakti Singh Rana, Shelly Kiran, Vandana Rana, Vinod Bhavuk , Virender Sharma, Gopal Sharma, Naveen, Rajiv Trigti, Manoj Kumar.
+We thank Dr. Karam Singh, Director of **Department of Language Art and Culture, Shimla, Himachal Pradesh** for their efforts in arranging workshops to collect datasets. We also thank to all the kangri book authors. We also thank all the language translators/writers who manually compiles the dataset: Aman Kumar Vishva, Bharti kudailiya, Bhupinder Singh Bhupi, Deepak kulavi, Vijay Puri , Hari Krishan Murari ,Navin Haldwani , Suresh Lata Awasthi, Shakti Singh Rana, Shelly Kiran, Vandana Rana, Vinod Bhavuk , Virender Sharma, Gopal Sharma, Naveen, Rajiv Trigti, Manoj Kumar.
 
 # __Contributors__
 Shweta Chauhan </br>
