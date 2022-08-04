@@ -46,7 +46,6 @@ We thank Dr. Karam Singh, Director of **Department of Language Art and Culture, 
 
 # __Contributors__
 Shweta Chauhan </br>
-Shefali Saxena </br>
 Philemon Daniel </br>
 
 # __Contacts__
